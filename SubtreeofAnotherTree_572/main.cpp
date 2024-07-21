@@ -34,7 +34,5 @@ int main()
     bool result = isSameTree(&p, &q);
     std::cout << result << std::endl;
 
-
-
-        return 0;
+    return 0;
 }
