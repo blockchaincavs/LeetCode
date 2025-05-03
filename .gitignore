@@ -7,6 +7,8 @@ Release
 # Qt Creator .user fiels
 *.user
 
-settings.json
-tasks.json
-main
+**/settings.json
+**/tasks.json
+**/.vscode
+main.vscode/
+main.dSYM/
