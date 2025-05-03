@@ -8,6 +8,6 @@ Release
 *.user
 
 # vscode stuff
-main.dSYM/
+main.dSYM/Contents
 .vscode/
 main
