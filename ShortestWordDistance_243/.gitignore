@@ -1,0 +1,13 @@
+main.DS_Store
+
+# Binaries
+Debug
+Release
+
+# Qt Creator .user fiels
+*.user
+
+# vscode stuff
+main.dSYM/
+.vscode/
+main
