@@ -6,5 +6,7 @@ Release
 
 # Qt Creator .user fiels
 *.user
-.vscode
-main*
+
+settings.json
+tasks.json
+main
