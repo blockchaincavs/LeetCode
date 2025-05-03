@@ -6,3 +6,7 @@ Release
 
 # Qt Creator .user fiels
 *.user
+
+# vs code files for c++
+main.dSYM/
+.vscode/
