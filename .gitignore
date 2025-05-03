@@ -6,3 +6,5 @@ Release
 
 # Qt Creator .user fiels
 *.user
+.vscode
+main*
